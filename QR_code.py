@@ -1,8 +1,8 @@
 import qrcode as qr
 # from PIL import image
 
-img = qr.make("https://www.instagram.com/ssshikrani?igsh=Ymk4OWs0dXg1M3Vx")
-img.save("Mam_Amna_id_code.png")
+img = qr.make("paste link here:")
+img.save("qwerty123.png")
 
 # qrc = qr.QRCode(version=1,
 #                 error_correction=qr.constant.ERROR_CORRECT_H,
