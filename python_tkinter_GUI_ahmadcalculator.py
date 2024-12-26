@@ -1,3 +1,13 @@
+""" 
+Before running this code make sure that qrcode module is installed in your system 
+if not then run this command in you terminal or command-prompt;
+(i)_For windows:
+  pip install tkinter
+(ii)_For macos:
+  pip3 install tkinter
+(iii)_For linux:
+  pip3 install tkinter
+"""
 from tkinter import *
 from tkinter import ttk
 
