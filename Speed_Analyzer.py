@@ -1,3 +1,4 @@
+
 from time import *
 import random as r
 
@@ -18,7 +19,7 @@ def timer(timestart,timeend,userinput):
      
         
 
-test = ["i am a student of city college of science and science and commerce multan.","i am ahmad siddique.","Welcome to my programmes."]
+test = ["I am a student of city college of science and science and commerce Multan.","i am ahmad siddique.","Welcome to my programmes."]
 
 test1 = r.choice(test)
 
